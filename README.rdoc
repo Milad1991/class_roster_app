@@ -1,28 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an additional app dealing with the generating and altering of Models in
+rails. This app consists of creating 2 Models, a 'User' and a 'Course.'
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+Also, in this app, The ability to create migrations and associations is also displayed in this
+app's source code.
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
